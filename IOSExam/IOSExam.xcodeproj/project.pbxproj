@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6388D25F2B03C5EA0025DF8A /* ProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6388D25E2B03C5EA0025DF8A /* ProfileVC.swift */; };
+		6388D2612B03C5FA0025DF8A /* StudentTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6388D2602B03C5FA0025DF8A /* StudentTVC.swift */; };
 		63F780102B030DA200BC63AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F7800F2B030DA200BC63AB /* AppDelegate.swift */; };
 		63F780122B030DA200BC63AB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F780112B030DA200BC63AB /* SceneDelegate.swift */; };
 		63F780142B030DA200BC63AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F780132B030DA200BC63AB /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6388D25E2B03C5EA0025DF8A /* ProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVC.swift; sourceTree = "<group>"; };
+		6388D2602B03C5FA0025DF8A /* StudentTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentTVC.swift; sourceTree = "<group>"; };
 		63F7800C2B030DA200BC63AB /* IOSExam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOSExam.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63F7800F2B030DA200BC63AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63F780112B030DA200BC63AB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				63F780112B030DA200BC63AB /* SceneDelegate.swift */,
 				63F780132B030DA200BC63AB /* ViewController.swift */,
 				63F780152B030DA200BC63AB /* Main.storyboard */,
+				6388D25E2B03C5EA0025DF8A /* ProfileVC.swift */,
+				6388D2602B03C5FA0025DF8A /* StudentTVC.swift */,
 				63F780182B030DA300BC63AB /* Assets.xcassets */,
 				63F7801A2B030DA300BC63AB /* LaunchScreen.storyboard */,
 				63F7801D2B030DA300BC63AB /* Info.plist */,
@@ -138,6 +144,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6388D25F2B03C5EA0025DF8A /* ProfileVC.swift in Sources */,
+				6388D2612B03C5FA0025DF8A /* StudentTVC.swift in Sources */,
 				63F780142B030DA200BC63AB /* ViewController.swift in Sources */,
 				63F780102B030DA200BC63AB /* AppDelegate.swift in Sources */,
 				63F780122B030DA200BC63AB /* SceneDelegate.swift in Sources */,
